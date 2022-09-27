@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["master"]
+    "baseBranches": ["firebase"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
